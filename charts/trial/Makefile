@@ -1,4 +1,4 @@
-CHART_REPO := http://jenkins-x-chartmuseum:8080
+CHART_REPO := https://jenkins-x-chartmuseum:8080
 CURRENT=$(pwd)
 NAME := trial
 OS := $(shell uname)
